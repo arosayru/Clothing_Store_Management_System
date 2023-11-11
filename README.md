@@ -28,15 +28,18 @@
 
 ![Login Form](https://github.com/arosayru/Clothing_Store_Management_System/assets/107207994/369708e2-78ee-450b-83ca-6614bd59f028)
 
-<p>In this application can access 3 types of users. They are Admin, Cashier and Accountant. These users can access this application in different ways.</p>
+<br/>
+<p>In this application can access 3 types of users. They are Admin, Cashier and Accountant. These users can access this application in different ways.</p> <br/>
 <p>Admin: Admin can access all the section in the application. Such as User, Customer, Product and the Bill</p>
 
 ![Admin](https://github.com/arosayru/Clothing_Store_Management_System/assets/107207994/bd80a0ef-fcba-44bc-afc8-2860390a4b7b)
 
+<br/>
 <p>Cashier: Cashier can access only without a user form.</p>
 
 ![Cahsier](https://github.com/arosayru/Clothing_Store_Management_System/assets/107207994/8ec7fbdb-657f-4f35-b3a6-c44cb519dd50)
 
+<br/>
 <p>Accountant: Accountant can only see Dashboard</p>
 
 ![Accountant](https://github.com/arosayru/Clothing_Store_Management_System/assets/107207994/e15c6870-b444-4170-81a6-8669c6b4f928)
