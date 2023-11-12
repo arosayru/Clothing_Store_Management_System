@@ -12,7 +12,7 @@
   <li>User section</li>
   <li>Customer section</li>
   <li>Product section</li>
-  <li>Bill section/li>
+  <li>Bill section</li>
   <li>Forget Password option</li>
 </ul>
 
